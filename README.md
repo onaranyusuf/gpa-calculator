@@ -1,4 +1,4 @@
-# gpa-calculator with python
+# GPA Calculator with python
 
 ## General Info
 It is a GPA Calculation code written in Python language. You can use this codes to calculate your GPA.
